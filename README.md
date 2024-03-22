@@ -14,7 +14,7 @@
 - Compose Version: 2.7
 - MySQL should be installed.
 
-## Script
+### Script
 
 ```php
 php compose install
